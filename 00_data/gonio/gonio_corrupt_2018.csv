@@ -1,0 +1,17 @@
+"PTT","HEX","DEPLOYID","p_decoded","corrupt","total","status","time_series","source","argos","passes"
+"ptt09","hex09","Tag09",0.84,52,325,7,74,"gonio",NA,NA
+"ptt10","hex10","Tag10",0,42,42,0,0,"gonio",NA,NA
+"ptt11","hex11","Tag11",0.82,13,70,19,1,"gonio",NA,NA
+"ptt12","hex12","Tag12",0.87,61,467,7,67,"gonio",NA,NA
+"ptt15","hex15","Tag15",0.63,76,205,13,52,"gonio",NA,NA
+"ptt14","hex14","Tag14",0.54,112,243,48,7,"gonio",NA,NA
+"ptt16","hex16","Tag16",0.85,39,261,11,69,"gonio",NA,NA
+"ptt13","hex13","Tag13",0.8,82,410,26,60,"gonio",NA,NA
+"ptt09","hex09","Tag09",0.91,104,1151,26,80,"portal",191,307
+"ptt10","hex10","Tag10",0.21,104,132,28,0,"portal",23,66
+"ptt11","hex11","Tag11",0.86,206,1472,49,80,"portal",232,369
+"ptt12","hex12","Tag12",0.88,190,1580,27,103,"portal",238,409
+"ptt15","hex15","Tag15",0.79,183,871,15,72,"portal",220,394
+"ptt14","hex14","Tag14",0.36,568,888,61,51,"portal",217,417
+"ptt16","hex16","Tag16",0.91,156.96,1744,26,80,"portal",404,623
+"ptt13","hex13","Tag13",0.88,174.84,1457,32,77,"portal",244,396

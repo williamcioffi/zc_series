@@ -1,0 +1,6 @@
+,2.5 min period,5.0 min period,7.5 min period
+n dives extracted,645,598,457
+|duration diff.|,69 (0 – 1338),182 (0 – 1589),293 (0 – 1589)
+"|depth diff.|, all dives",30,34,43
+"|depth diff.|, dives < 33 min",18 (1 – 95),21 (1 – 101),27 (1 – 152)
+"|depth diff.|, dives >= 33 min",81 (2 – 147),82 (16 – 147),83 (16 – 234)
