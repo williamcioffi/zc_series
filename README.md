@@ -1,4 +1,5 @@
 # zc_series
+[![DOI](https://zenodo.org/badge/497279093.svg)](https://zenodo.org/badge/latestdoi/497279093)
 
 This repository contains the data and code used to produce analysis for a draft manuscript:
 
