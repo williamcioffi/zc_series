@@ -1,5 +1,5 @@
 # zc_series
-[![DOI](https://zenodo.org/badge/497279093.svg)](https://zenodo.org/badge/latestdoi/497279093)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6591570.svg)](https://doi.org/10.5281/zenodo.6591570)
 
 This repository contains the data and code used to produce analysis for a prepint:
 
