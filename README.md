@@ -1,9 +1,9 @@
 # zc_series
 [![DOI](https://zenodo.org/badge/497279093.svg)](https://zenodo.org/badge/latestdoi/497279093)
 
-This repository contains the data and code used to produce analysis for a draft manuscript:
+This repository contains the data and code used to produce analysis for a prepint:
 
-> Cioffi WR, Quick NJ, Swaim ZT, Foley HJ, Waples DM, Webster DL, Baird RW, Southall BL, Nowacek DP, Read AJ. Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity.
+> Cioffi WR, Quick NJ, Swaim ZT, Foley HJ, Waples DM, Webster DL, Baird RW, Southall BL, Nowacek DP, Read AJ. 2022 Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity. bioRxiv 2022.05.28.493822; doi: [10.1101/2022.05.28.493822](https://doi.org/10.1101/2022.05.28.493822)
 
 If you have questions about anything in this repository or are interested in using the included datasets please contact wrc14 [at] duke [dot] edu.
 
@@ -47,12 +47,13 @@ R.matlab_3.6.2
 # citation
 Please cite this repository as:
 
-> (TBD) PLEASE DO NOT CITE THIS REPOSITORY CURRENTLY
+> Cioffi WR, Quick NJ, Swaim ZT, Foley HJ, Waples DM, Webster DL, Baird RW, Southall BL, Nowacek DP, Read AJ. 2022 zc_series: Dataset and code for Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity. [https://github.com/williamcioffi/zc_series](https://github.com/williamcioffi/zc_series). doi: [10.5281/zenodo.6589596](https://doi.org/10.5281/zenodo.6589596)
 
-Please cite the manuscript as:
+Please cite the preprint as:
 
-> (TBD)
+> Cioffi WR, Quick NJ, Swaim ZT, Foley HJ, Waples DM, Webster DL, Baird RW, Southall BL, Nowacek DP, Read AJ. 2022 Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity. bioRxiv 2022.05.28.493822; doi: [10.1101/2022.05.28.493822](https://doi.org/10.1101/2022.05.28.493822)
 
 # contact information
 
 If you have questions about anything in this repository or are interested in using the included datasets please contact wrc14 [at] duke [dot] edu.
+
