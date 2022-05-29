@@ -5,7 +5,7 @@ This repository contains the data and code used to produce analysis for a prepin
 
 > Cioffi WR, Quick NJ, Swaim ZT, Foley HJ, Waples DM, Webster DL, Baird RW, Southall BL, Nowacek DP, Read AJ. 2022 Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity. bioRxiv 2022.05.28.493822; doi: [10.1101/2022.05.28.493822](https://doi.org/10.1101/2022.05.28.493822)
 
-If you have questions about anything in this repository or are interested in using the included datasets please contact wrc14 [at] duke [dot] edu.
+If you have questions about anything in this repository or are interested in using the included datasets please contact wrc14 [at] duke [dot] edu. You can also post to [issues](https://github.com/williamcioffi/zc_series/issues) with questions or bugs.
 
 # details
 
