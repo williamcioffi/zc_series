@@ -42,7 +42,7 @@ matches <- matchtimes(sattag$Date, tt)
 pdf(file = "figure4.pdf")
 ###
 
-par(mfrow = c(2, 1), mar = c(5.1, 5.1, 0.1, 0.1))
+par(mfrow = c(2, 1), mar = c(5.1, 5.1, 1.1, 1.1))
 
 # make a plotting area
 plot(0, 0, 
@@ -116,7 +116,7 @@ mtext("depth (meters)", side = 2, line = 3.4)
 axis(1, tcl = -0.3, at = seq(0, max(tt_norm), by = 10), lab = NA)
 axis(1, tcl = 0.3, at = seq(0, max(tt_norm), by = 10), lab = NA)
 axis(1, tcl = 0, at = seq(0, max(tt_norm), by = 30))
-axis(2, tcl = -0.3, las = 1)
+axis(2, tcl = -0.3, at = seq(0, -1400, by = -200), lab = abs(seq(0, -1400, by = -200)),las = 1)
 axis(2, tcl = 0.3, lab = NA)
 box()
 

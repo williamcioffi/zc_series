@@ -4,7 +4,8 @@
 # required libraries and functions
 library(sattagutils) # github.com/williamcioffi/sattagutils
 library(colorspace)
-load("../../01_helper_functions/helper_functions.rdata")
+source("../../01_helper_functions/plot_dives.r")
+source("../../01_helper_functions/findgaps.r")
 
 # constants
 ERRORBARCOLOR <- rgb(48/255, 102/255, 190/255)
@@ -31,7 +32,7 @@ origser <- ser # make a copy of the original for resampling
 pdf("figure2.pdf", width = 6, height = 6)
 ###
 
-par(mfrow = c(3, 1), mar = c(4.1, 4.1, 0, 1.1))
+par(mfrow = c(3, 1), mar = c(4.1, 4.1, 1.1, 1.1), oma = c(1.1, 1.1, 0, 0))
 periods <- c(2.5, 5, 7.5)
 
 for(i in 1:length(periods)) {
@@ -44,12 +45,14 @@ if(periods[i] != 2.5) {
 plot_dives2(beh[overlap, ],
   show_gaps = FALSE,
   legend = FALSE,
-  start_time = num2date(ser$Date[1]),
-  end_time = num2date(ser$Date[nrow(ser)]), 
+  start_time = (ser$Date[1]),
+  end_time = (ser$Date[nrow(ser)]), 
   pch = NA, col = "grey45", lwd = 2,
+  yaxt = FALSE
 )
 
-axis(2, at = seq(0, -1400, by = -200), lab = NA, tcl = 0.3)
+axis(2, at = seq(0, -1400, by = -200), lab = NA, tcl = -0.3)
+axis(2, at = seq(0, -1400, by = -200), lab = abs(seq(0, -1400, by = -200)), tcl = 0.3, las = 1)
 axis(1, at = ser$Date, lab = NA, tcl = 0.3)
 
 segments(

@@ -21,6 +21,7 @@ plot_dives2 <- function(
 	legendpos = "bottomright",
 	ylab = "depth (meters)",
 	xaxt = TRUE,
+	yaxt = TRUE,
 	gap_plotting_buffer = 0.15,
 	dep_plotting_buffer = 0.15,
 	x_axis_labels = TRUE
@@ -73,7 +74,8 @@ plot(
 )
 
 # plot the y axis
-axis(2, at = pretty(prettyaxis), las = 1, tcl = -0.3)
+if(yaxt)
+  axis(2, at = pretty(prettyaxis), las = 1, tcl = -0.3)
 
 if(xaxt) {
 	hseq <- dateseq(c(start_time, end_time), hours = TRUE)

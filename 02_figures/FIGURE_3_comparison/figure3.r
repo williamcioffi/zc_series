@@ -46,7 +46,7 @@ letterlabs <- list(
 pdf('figure3.pdf', width = 5.5*1.65, height = 9.5*1.4)
 ###
 
-par(mfcol = c(5, 3), mar = c(4.1, 4.1, 1.1, 2.1), oma = c(0, 4.1, 4.1, 0))
+par(mfcol = c(5, 3), mar = c(4.1, 4.1, 1.1, 2.1), oma = c(1.1, 4.1, 4.1, 1.1))
 
 for(i in 1:length(allouts)) {
 outs <- allouts[[i]]
