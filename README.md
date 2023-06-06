@@ -1,9 +1,11 @@
 # zc_series
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7923138.svg)](https://doi.org/10.5281/zenodo.7923138)
+<!-- 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7923138.svg)](https://doi.org/10.5281/zenodo.7923138) 
+-->
 
-This repository contains the data and code used to produce analysis for a prepint:
+This repository contains the data and code used to produce analysis for a manuscript:
 
-> Cioffi WR, Quick NJ, Swaim ZT, Foley HJ, Waples DM, Webster DL, Baird RW, Southall BL, Nowacek DP, Read AJ. 2022 Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity. bioRxiv 2022.05.28.493822; doi: [10.1101/2022.05.28.493822](https://doi.org/10.1101/2022.05.28.493822)
+> Cioffi WR, Quick NJ, Swaim ZT, Foley HJ, Waples DM, Webster DL, Baird RW, Southall BL, Nowacek DP, Read AJ. 2023. Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity. _Animal Biotelemetry_ 11, 23; doi: [10.1186/s40317-023-00334-1](https://doi.org/10.1186/s40317-023-00334-1)
 
 If you have questions about anything in this repository or are interested in using the included datasets please contact wrc14 [at] duke [dot] edu. You can also post to [issues](https://github.com/williamcioffi/zc_series/issues) with questions or bugs.
 
@@ -49,9 +51,9 @@ Please cite this repository as:
 
 > Cioffi WR, Quick NJ, Swaim ZT, Foley HJ, Waples DM, Webster DL, Baird RW, Southall BL, Nowacek DP, Read AJ. 2022 zc_series: Dataset and code for Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity. [https://github.com/williamcioffi/zc_series](https://github.com/williamcioffi/zc_series). doi: [10.5281/zenodo.6589596](https://doi.org/10.5281/zenodo.6589596)
 
-Please cite the preprint as:
+Please cite the manuscript as:
 
-> Cioffi WR, Quick NJ, Swaim ZT, Foley HJ, Waples DM, Webster DL, Baird RW, Southall BL, Nowacek DP, Read AJ. 2022 Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity. bioRxiv 2022.05.28.493822; doi: [10.1101/2022.05.28.493822](https://doi.org/10.1101/2022.05.28.493822)
+> Cioffi WR, Quick NJ, Swaim ZT, Foley HJ, Waples DM, Webster DL, Baird RW, Southall BL, Nowacek DP, Read AJ. 2023. Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity. _Animal Biotelemetry_ 11, 23; doi: [10.1186/s40317-023-00334-1](https://doi.org/10.1186/s40317-023-00334-1)
 
 # contact information
 
