@@ -1,7 +1,6 @@
 # zc_series
-<!-- 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7923138.svg)](https://doi.org/10.5281/zenodo.7923138) 
--->
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8010306.svg)](https://doi.org/10.5281/zenodo.8010306) 
 
 This repository contains the data and code used to produce analysis for a manuscript:
 
